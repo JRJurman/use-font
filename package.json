@@ -1,0 +1,21 @@
+{
+	"name": "use-font",
+	"version": "1.0.0",
+	"description": "Web Component for declarative font loading",
+	"main": "use-font.js",
+	"scripts": {
+		"start": "serve . -p 3000"
+	},
+	"keywords": [
+		"web-component"
+	],
+	"author": {
+		"name": "Jesse Jurman",
+		"email": "j.r.jurman@gmail.com",
+		"url": "https://jrjurman.com"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"serve": "^14.2.3"
+	}
+}

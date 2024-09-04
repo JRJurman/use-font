@@ -27,6 +27,8 @@ Import the component using your CDN of choice or from npm, and then include the 
 
 <img src="./preview.png" alt="Cursive Text that reads 'very mindful very demure'.">
 
+Codepen Link: https://codepen.io/JRJurman/pen/WNqYwzB
+
 ## Why?
 
 There are browser inconsistencies when loading fonts in Shadow DOM, so this provides a temporary resolution. See:
